@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: EmailApplication Class
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description:This class includes 3 linked lists and we make operations onto these according to commands.
