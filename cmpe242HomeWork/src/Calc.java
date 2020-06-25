@@ -1,6 +1,5 @@
 //Title:Calculator(Calc) class for posfix expression
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description:This class calculates the posfix expression..
