@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: EmailTester
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description:This class checks the methods of linkedlistOfEmail class.Such as add, read, showAll and delete.
