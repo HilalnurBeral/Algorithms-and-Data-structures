@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: Email Class
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description: This class defines a  email class and its attributes with getter and setter methods and constructor. 
