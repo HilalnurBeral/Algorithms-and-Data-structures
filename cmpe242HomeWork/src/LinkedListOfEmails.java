@@ -1,7 +1,6 @@
 //-----------------------------------------------------
 // Title: LinkedListOfEmails
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description:This class implements a emails linkedlist and its methods.
