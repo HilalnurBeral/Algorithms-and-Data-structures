@@ -3,7 +3,6 @@ import java.util.NoSuchElementException;
 //-----------------------------------------------------
 // Title: Stack
 // Author: Hilalnur Beral
-// ID: 11549136358
 // Section: 01
 // Assignment: 1
 // Description:This class implements stack methods .
